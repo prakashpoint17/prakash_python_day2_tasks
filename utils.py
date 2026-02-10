@@ -1,5 +1,4 @@
 #utilities package [utils.py]
-
     
 #To check prime number(input : n , output : True/False)
 def is_prime(n:int) -> bool:
