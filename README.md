@@ -37,19 +37,19 @@
 
 | Task No | Description |
 |-------|-------------|
-| 1 | Accept user name and greet |
-| 2 | Basic calculator using input |
-| 3 | Check even or odd number |
-| 4 | Find largest of three numbers |
-| 5 | Print multiplication table |
-| 6 | Reverse a string (without built-in functions) |
-| 7 | Check if a number is prime |
-| 8 | Generate Fibonacci series |
+| 1 | [Accept user name and greet](task1_greet.py) |
+| 2 | [Basic calculator using input](task2_calculator.py) |
+| 3 | [Check even or odd number](task3_evenvsodd.py) |
+| 4 | [Find largest of three numbers](task4_largestnum.py) |
+| 5 | [Print multiplication table](task5_multable.py) |
+| 6 | [Reverse a string (without built-in functions)](task6_revstr.py) |
+| 7 | [Check if a number is prime](task7_prime.py) |
+| 8 | [Generate Fibonacci series](task8_fibonacci.py) |
 
 ---
 
 ## 🛠 Utility Module (`utils.py`)
-
+[`utils.py`](utils.py)
 The following reusable utility functions were implemented:
 
 - `is_prime(n)` – checks whether a number is prime
